@@ -21,9 +21,9 @@ This repository contains projects I have done under *Data Analyst Professional C
 - Forecasts and Predictions. Basic machine learning methods. Classification, clustering. Regression. Decision trees
 - 12 Projects
 
-### Final project: [Bank Customer Segmentation](https://github.com/Elena-Lebedeva/data_analyst_projects/tree/main/banking)
+### Final project: [Bank Customer Segmentation](https://github.com/Elena-Lebedeva/data_analyst_projects/tree/main/bank_customer_segmentation)
 
-### Project 1: [Research on the reliability of bank lending borrowers](https://github.com/Elena-Lebedeva/bank_borrowers_reliability)
+### Project 1: [Research on the reliability of bank lending borrowers](https://github.com/Elena-Lebedeva/data_analyst_projects/tree/main/bank_borrowers_reliability)
 
 ### Project 2:  
 
