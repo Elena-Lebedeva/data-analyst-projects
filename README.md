@@ -1,6 +1,6 @@
 # Data Analytics Projects:
 
-This repository contains projects I have done under Data Analyst Professional Course Training by Yandex, one of Europe's top tech companies. It is a six-month, 250 hours course. 
+This repository contains projects I have done under *Data Analyst Professional Course Training* by Yandex, one of Europe's top tech companies. It is a six-month, 250 hours course. 
 
 ## [Certificate](https://www.linkedin.com/in/elena-lebedeva-ub/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAAAkv9yIBI5Ekg2iQtI_gRr7Bpv5vLHapVuU,1635476004339)/)
 
