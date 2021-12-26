@@ -23,7 +23,7 @@ This repository contains projects I have done under Data Analyst Professional Co
 
 ### Final project: [Bank Customer Segmentation](https://github.com/Elena-Lebedeva/data_analyst_projects/tree/main/banking)
 
-### Project 1: 
+### Project 1: Research on the reliability of bank lending borrowers
 
 ### Project 2:  
 
