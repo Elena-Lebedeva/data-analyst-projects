@@ -21,7 +21,7 @@ This repository contains projects I have done under Data Analyst Professional Co
 - Forecasts and Predictions. Basic machine learning methods. Classification, clustering. Regression. Decision trees
 - 12 Projects
 
-### Final project: Bank's customer segmentation
+### Final project: Bank's clients segmentation
 
 ### Project 1:
 
