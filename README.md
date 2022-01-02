@@ -27,7 +27,7 @@ This repository contains projects I have done under *Data Analyst Professional C
 
 ### Project 2:  [Real estate market analysis: case study of St. Petersburg](https://github.com/Elena-Lebedeva/data_analyst_projects/tree/main/real_estate)
 
-### Project 3: 
+### Project 3: [Determination of an optimal tariff for a telecom company](https://github.com/Elena-Lebedeva/data_analyst_projects/tree/main/telecom)
 
 ### Project 4:  
 
