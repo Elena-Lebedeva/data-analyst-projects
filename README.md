@@ -25,7 +25,7 @@ This repository contains projects I have done under *Data Analyst Professional C
 
 ### Project 1: [Research on the reliability of bank lending borrowers](https://github.com/Elena-Lebedeva/data_analyst_projects/tree/main/bank_borrowers_reliability)
 
-### Project 2:  
+### Project 2:  [Real estate market analysis: case study of St. Petersburg](https://github.com/Elena-Lebedeva/data_analyst_projects/tree/main/real_estate)
 
 ### Project 3: 
 
