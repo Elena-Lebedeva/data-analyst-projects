@@ -29,7 +29,7 @@ This repository contains projects I have done under *Data Analyst Professional C
 
 ### Project 3: [Determination of an optimal tariff for a telecom company](https://github.com/Elena-Lebedeva/data_analyst_projects/tree/main/telecom)
 
-### Project 4:  
+### Project 4:  [Analysis of the patterns which determine the success of video games](https://github.com/Elena-Lebedeva/data_analyst_projects/tree/main/gamedev)
 
 ### Project 5: 
 
