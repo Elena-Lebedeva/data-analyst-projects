@@ -1,4 +1,4 @@
-## Project - Analysis of the patterns which determine the success of games 
+## Project - Analysis of the patterns which determine the success of video games 
 
 ### Objective: To identify patterns that determine the success of a game
 * I have used the historical data on sales of computer games, user and expert assessments, genres and platforms, in order to find out the factors that determine the success of a game
