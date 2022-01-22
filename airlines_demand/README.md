@@ -1,6 +1,6 @@
 ## Project - Airlines Demand  - Data Exploration 
 
-### Objective: To prepare airlines data using SQL, to explore it
+### Objective: To prepare airlines data using SQL and to explore it
 
 I have prepared data on airlines data using SQL, realized data exploration and 
 established the most frequently used aircraft models for flights, as well as determined the cities with hishest frequency of flights.
