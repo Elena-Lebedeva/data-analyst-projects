@@ -2,8 +2,10 @@
 
 This repository contains projects I have done under *Data Analyst Professional Course Training* by Yandex, one of Europe's top tech companies. It is a six-month, 250 hours course. 
 
-## [Certificate](https://www.linkedin.com/in/elena-lebedeva-ub/[Elena Lebedeva_20212DA01013.pdf](https://github.com/Elena-Lebedeva/data_analyst_projects/files/7919308/Elena.Lebedeva_20212DA01013.pdf)
+## [Certificate](https://www.linkedin.com/in/elena-lebedeva-ub/)
 )/)
+
+## [Certificate]([Elena Lebedeva_20212DA01013.pdf](https://github.com/Elena-Lebedeva/data_analyst_projects/files/7919308/Elena.Lebedeva_20212DA01013.pdf)
 
 ## The main tools are:
 - Python and its libraries: Pandas, Matplotlib, NumPy, SciPy
