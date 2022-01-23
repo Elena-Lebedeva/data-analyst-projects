@@ -33,7 +33,7 @@ This repository contains projects I have done under *Data Analyst Professional C
 
 ### Project 5: [Analysis of the airlines demand](https://github.com/Elena-Lebedeva/data_analyst_projects/tree/main/airlines_demand)
 
-### Project 6: [Marketing cost optimization] (https://github.com/Elena-Lebedeva/data_analyst_projects/tree/main/marketing_cost_optimization)
+### Project 6: [Marketing cost optimization](https://github.com/Elena-Lebedeva/data_analyst_projects/tree/main/marketing_cost_optimization)
 
 ### Project 7:
 
