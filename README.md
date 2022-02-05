@@ -35,7 +35,7 @@ This repository contains projects I have done under *Data Analyst Professional C
 
 ### Project 6: [Marketing cost optimization](https://github.com/Elena-Lebedeva/data_analyst_projects/tree/main/marketing_cost_optimization)
 
-### Project 7: [A/B testing on е-commerce revenue](https://github.com/Elena-Lebedeva/data_analyst_projects/tree/main/AB_testing_e-commerce)
+### Project 7: [A/B testing: е-commerce revenue](https://github.com/Elena-Lebedeva/data_analyst_projects/tree/main/AB_testing_e-commerce)
 
 ### Project 8: [Catering in Moscow: Market research](https://github.com/Elena-Lebedeva/data_analyst_projects/tree/main/catering_market_research)
 
@@ -43,4 +43,4 @@ This repository contains projects I have done under *Data Analyst Professional C
 
 ### Project 10: [Churn Prediction model for Fitness Centers clients](https://github.com/Elena-Lebedeva/data_analyst_projects/tree/main/churn_prediction_model)
 
-### Project 11: 
+### Project 11: [A/B testing: marketing events](https://github.com/Elena-Lebedeva/data_analyst_projects/tree/main/AB_testing_marketing_events)
