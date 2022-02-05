@@ -39,7 +39,7 @@ This repository contains projects I have done under *Data Analyst Professional C
 
 ### Project 8: [Catering in Moscow: Market research](https://github.com/Elena-Lebedeva/data_analyst_projects/tree/main/catering_market_research)
 
-### Project 9:
+### Project 9: [Mobile App Behavior Analytics](https://github.com/Elena-Lebedeva/data_analyst_projects/tree/main/AB_testing_mobile_app)
 
 ### Project 10:
 
