@@ -35,7 +35,7 @@ This repository contains projects I have done under *Data Analyst Professional C
 
 ### Project 6: [Marketing cost optimization](https://github.com/Elena-Lebedeva/data_analyst_projects/tree/main/marketing_cost_optimization)
 
-### Project 7:
+### Project 7: [A/B testing on е-commerce revenue](https://github.com/Elena-Lebedeva/data_analyst_projects/tree/main/AB_testing_e-commerce)
 
 ### Project 8:
 
