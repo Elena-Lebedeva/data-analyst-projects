@@ -41,6 +41,6 @@ This repository contains projects I have done under *Data Analyst Professional C
 
 ### Project 9: [Mobile App Behavior Analytics](https://github.com/Elena-Lebedeva/data_analyst_projects/tree/main/AB_testing_mobile_app)
 
-### Project 10:
+### Project 10: Churn Prediction model for Fitness Centers clients (https://github.com/Elena-Lebedeva/data_analyst_projects/tree/main/churn_prediction_model)
 
 ### Project 11: 
