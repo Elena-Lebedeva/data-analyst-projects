@@ -23,6 +23,8 @@ This repository contains projects I have done under *Data Analyst Professional C
 
 ### Final project: [Bank Customer Segmentation](https://github.com/Elena-Lebedeva/data_analyst_projects/tree/main/bank_customer_segmentation)
 
+### Machine Learning project: [Churn Prediction model for Fitness Centers clients](https://github.com/Elena-Lebedeva/data_analyst_projects/tree/main/churn_prediction_model)
+
 ### Project 1: [Research on the reliability of bank lending borrowers](https://github.com/Elena-Lebedeva/data_analyst_projects/tree/main/bank_borrowers_reliability)
 
 ### Project 2:  [Real estate market analysis: case study of St. Petersburg](https://github.com/Elena-Lebedeva/data_analyst_projects/tree/main/real_estate)
@@ -41,6 +43,4 @@ This repository contains projects I have done under *Data Analyst Professional C
 
 ### Project 9: [Mobile App Behavior Analytics](https://github.com/Elena-Lebedeva/data_analyst_projects/tree/main/AB_testing_mobile_app)
 
-### Project 10: [Churn Prediction model for Fitness Centers clients](https://github.com/Elena-Lebedeva/data_analyst_projects/tree/main/churn_prediction_model)
-
-### Project 11: [A/B testing: marketing events](https://github.com/Elena-Lebedeva/data_analyst_projects/tree/main/AB_testing_marketing_events)
+### Project 10: [A/B testing: marketing events](https://github.com/Elena-Lebedeva/data_analyst_projects/tree/main/AB_testing_marketing_events)
