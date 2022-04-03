@@ -27,7 +27,7 @@ This repository contains projects I have done under *Data Analyst Professional C
 
 ### Project 1: [Research on the reliability of bank lending borrowers](https://github.com/Elena-Lebedeva/data_analyst_projects/tree/main/bank_borrowers_reliability)
 
-### Project 2:  [Real estate market analysis: case study of St. Petersburg](https://github.com/Elena-Lebedeva/data_analyst_projects/tree/main/real_estate)
+### Project 2:  [Real estate market analysis: case study](https://github.com/Elena-Lebedeva/data_analyst_projects/tree/main/real_estate)
 
 ### Project 3: [Determination of an optimal tariff for a telecom company](https://github.com/Elena-Lebedeva/data_analyst_projects/tree/main/telecom)
 
@@ -39,7 +39,7 @@ This repository contains projects I have done under *Data Analyst Professional C
 
 ### Project 7: [A/B testing: е-commerce revenue](https://github.com/Elena-Lebedeva/data_analyst_projects/tree/main/AB_testing_e-commerce)
 
-### Project 8: [Catering in Moscow: Market research](https://github.com/Elena-Lebedeva/data_analyst_projects/tree/main/catering_market_research)
+### Project 8: [Catering market research](https://github.com/Elena-Lebedeva/data_analyst_projects/tree/main/catering_market_research)
 
 ### Project 9: [Mobile App Behavior Analytics](https://github.com/Elena-Lebedeva/data_analyst_projects/tree/main/AB_testing_mobile_app)
 
