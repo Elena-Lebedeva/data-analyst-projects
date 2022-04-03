@@ -23,6 +23,9 @@ This repository contains projects I have done under *Data Analyst Professional C
 
 
 
+
+
+
 ### Final project: [Bank Customer Segmentation](https://github.com/Elena-Lebedeva/data_analyst_projects/tree/main/bank_customer_segmentation)
 
 ### Machine Learning project: [Churn Prediction model for Fitness Centers clients](https://github.com/Elena-Lebedeva/data_analyst_projects/tree/main/churn_prediction_model)
